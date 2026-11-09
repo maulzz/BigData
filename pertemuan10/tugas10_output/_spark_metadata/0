@@ -1,0 +1,5 @@
+v1
+{"path":"file:///mnt/Data_Linux/praktikum-bigdata/pertemuan10/tugas10_output/part-00000-f3208757-c19e-4812-9bd1-75c691976dc3-c000.snappy.parquet","size":1837,"isDir":false,"modificationTime":1794194265943,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///mnt/Data_Linux/praktikum-bigdata/pertemuan10/tugas10_output/part-00001-787e95a8-9679-416a-b5b0-45313d258dbe-c000.snappy.parquet","size":1830,"isDir":false,"modificationTime":1794194265943,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///mnt/Data_Linux/praktikum-bigdata/pertemuan10/tugas10_output/part-00002-121edff9-8992-46cd-860f-36c63b6089fb-c000.snappy.parquet","size":1815,"isDir":false,"modificationTime":1794194265943,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///mnt/Data_Linux/praktikum-bigdata/pertemuan10/tugas10_output/part-00003-8ec4dfaf-0916-4440-9ea5-4a3fb1467a68-c000.snappy.parquet","size":1841,"isDir":false,"modificationTime":1794194265943,"blockReplication":1,"blockSize":33554432,"action":"add"}
